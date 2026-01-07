@@ -1,6 +1,6 @@
 # 2D-3D-ISO-Graph: Automated 3D Public Safety Scene Graph Generation
 
-[Paper] [Project] [Demo] [Video]
+[Paper] [Project] [Demo](https://www.youtube.com/watch?v=xeld0KfRyXo) [Video]
 
 2D-3D-ISO-Graph is a computer vision pipeline that automates the creation of 3D indoor scene graphs from 2D imagery. It generates a rich, queryable, and standardized 3D Scene Graph fully compliant with the **ISO 19164:2024(en) "Indoor feature model"** standard.
 
@@ -137,9 +137,9 @@ If you use 2D-3D-ISO-Graph in your research, please use the following BibTeX ent
 ```bibtex
 @misc{2d3disograph2025,
       title={2D-3D-ISO-Graph: Automated 3D Public Safety Scene Graph Generation},
-      author={Your Name},
+      author={Alexander Nikitas Dimopoulos},
       year={2025},
-      url={https://github.com/your-org/2d-3d-iso-graph},
+      url={https://github.com/alexdimopoulos/2d-3d-iso-graph},
 }
 ```
 
